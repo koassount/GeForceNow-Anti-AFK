@@ -7,7 +7,7 @@ You should be using GeForceNow in windowed mode (that's what I'm using anyway...
 
 # LaunchAgent for automatic startup
 Put the .plist file in ```~/Library/LaunchAgents/```
-Open it up in an editor and change ```<string>**PAT/TO/anti-afk.scpt**</string>``` to the actual path to the .scpt file that you downloaded
+Open it up in an editor and change ```<string>**PATH/TO/anti-afk.scpt**</string>``` to the actual path to the .scpt file that you downloaded
 
 ```launchctl start anti-afk``` to start it manually
 ```launchctl stop anti-afk```  to stop it manually
