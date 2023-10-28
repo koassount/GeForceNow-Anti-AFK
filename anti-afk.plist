@@ -8,7 +8,7 @@
     <key>ProgramArguments</key>
     <array>
         <string>/usr/bin/osascript</string>
-        <string>**PAT/TO/anti-afk.scpt**</string>
+        <string>**PATH/TO/anti-afk.scpt**</string>
     </array>
     <key>RunAtLoad</key>
     <true/>
